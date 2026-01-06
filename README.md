@@ -1,2 +1,2 @@
 # readmission-risk-prediction
-XGBoost-based model predicting hospital readmission risk using Diabetes dataset
+XGBoost-based model predicting hospital readmission risk using Diabetes dataset.
